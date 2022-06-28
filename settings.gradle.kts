@@ -1,0 +1,1 @@
+rootProject.name = "com.quick.appstore-api"
